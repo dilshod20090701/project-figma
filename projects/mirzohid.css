@@ -1,0 +1,234 @@
+.ota{
+    width: 1350px;
+    height: 703px;
+    border: 1px solid black;
+    background-image: url(rasimlar/rasim1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.container{
+    width: 999px;
+    height: 2000px;
+    margin: auto;
+}
+.bola1{
+    width: 100%;
+    height: 86px;
+}
+.bola2{
+    width: 100%;
+    height: 600px;
+    margin-top: 15px;
+}
+.bola3{
+    width: 540px;
+    height: 400px;
+    margin-top: 15px;
+}
+.bola4{
+    width: 100%;
+    height: 122px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 57px;
+}
+.bola5{
+    width: 100%;
+    height: 400px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.bola6{
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+}
+.v1{
+    width: 230px;
+    height: 120px;
+    border: 1px solid black;
+    background-color: blueviolet;
+}
+.v2{
+    width: 230px;
+    height: 120px;
+    border: 1px solid black;
+    background-color: blueviolet;
+}
+.v3{
+    width: 230px;
+    height: 120px;
+    border: 1px solid black;
+    background-color: blueviolet;
+}
+.v4{
+    width: 230px;
+    height: 120px;
+    border: 1px solid black;
+    background-color: blueviolet;
+}
+.a1{
+    font-size: 15px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.b1{
+    font-size: 22px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.q1{
+    font-size: 15px;
+    color: white;
+    margin-top: -80px;
+    margin-left: 185px;
+}
+.d1{
+    font-size: 15px;
+    color: white;
+    margin-top: -80px;
+    margin-left: 60px;
+}
+.d2{
+    font-size: 15px;
+    color: white;
+    margin-top: -80px;
+    margin-left: 10px;
+}
+.d3{
+    font-size: 15px;
+    color: white;
+    margin-top: -80px;
+    margin-left: 60px;
+}
+.f1{
+    width: 120px;
+    height: 35px;
+    margin-top: 23px;
+    margin-left: 10px;
+}
+.f2{
+    width: 600px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.f3{
+    width: 100px;
+    height: 44px;
+    margin-top: -54px;
+    margin-left: 870px;
+}
+.f4{
+    width: 80px;
+    height: 72px;
+    margin-top: 15px;
+}
+.f5{
+    width: 300px;
+    height: 382px;
+    margin-top: 5px;
+}
+.n1{
+    width: 370px;
+    height: 390px;
+    margin-top: 131px;
+    margin-left: 129px;
+    background-image: url(rasimlar/rasim10.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transform: translate(0px, 30px);
+}
+.n2{
+    width: 450px;
+    height: 500px;
+    border: 1px solid black;
+    margin-top: -423px;
+    margin-left: 433px;
+    background-color: rgb(207, 221, 218);
+}
+.n3{
+    width: 300px;
+    height: 130px;
+    margin-top: 28px;
+    margin-left: 113px;
+}
+
+.h5{
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: white;
+    margin-top: -62px;
+    margin-left: 100px;
+}
+.h4{
+    font-family: Gilroy;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: white;
+}
+.c1{
+    font-size: 27px;
+    margin-top: 75px;
+    margin-left: 114px;
+    font-family: Gilroy;
+    font-weight: 700;
+    line-height: 140%;
+    letter-spacing: 0%;
+
+}
+.c2{
+    font-size: 12px;
+}
+.c3{
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    margin-top: 7px;
+    margin-left: 112px;
+}
+.c4{
+    font-family: Gilroy;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    margin-top: 7px;
+    margin-left: 128px;
+}
+.box{
+    width: 20px;
+    height: 100px;
+    margin-top: -154px;
+    margin-left: 114px;
+}
+.l1{
+    font-size: 1px;
+    margin-top: 27px;
+}
+.l2{
+    font-size: 1px;
+    margin-top: 27px;
+}
+
+.l3{
+    font-size: 1px;
+    margin-top: 27px;
+}
+
+.l4{
+    font-size: 1px;
+    margin-top: 27px;
+}
+
+
